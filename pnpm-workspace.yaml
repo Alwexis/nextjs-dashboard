@@ -1,3 +1,6 @@
 onlyBuiltDependencies:
   - bcrypt
   - sharp
+
+ignoredBuiltDependencies:
+  - unrs-resolver
